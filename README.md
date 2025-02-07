@@ -55,7 +55,7 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ✨ **User-Friendly Interface**  
-![Healthcare Assistant UI](https://via.placeholder.com/600x300.png?text=App+Screenshot)
+![Healthcare Assistant UI](file:///Users/diwakarpatel/Documents/ScreenShort/Screenshot%202025-02-07%20at%2010.27.00%E2%80%AFPM.png)
 
 ---
 
